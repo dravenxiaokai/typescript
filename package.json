@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@types/node": "^8.0.26"
+  },
+  "name": "typescript",
+  "description": "`cnpm install -g typescript`",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dravenxiaokai/typescript.git"
+  },
+  "author": "dravenxiaokai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dravenxiaokai/typescript/issues"
+  },
+  "homepage": "https://github.com/dravenxiaokai/typescript#readme"
+}
