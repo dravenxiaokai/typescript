@@ -4,7 +4,7 @@
 
 `cnpm install @types/node --save-dev`
 
-`mkdir ts-demo`
+`mkdir typescript`
 
 `npm init`
 
